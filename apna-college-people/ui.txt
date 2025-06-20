@@ -1,0 +1,2 @@
+btn bg: rgb(46 128 237 / var(--tw-bg-opacity, 1));
+txt col: rgb(19 72 166 / var(--tw-text-opacity, 1));
